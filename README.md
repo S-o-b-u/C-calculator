@@ -10,7 +10,7 @@ This repository contains a simple calculator program implemented in the C progra
 - **Division**: Divide one number by another.
 - **Factorial**: Calculate the factorial of a non-negative integer.
 - **Modulus**: Find the remainder after division.
-- **POWER**: Get the power of a base number.
+- **Power**: Get the power of a base number.
 - **Square**: Get the square of a number.
 - **Cube**: Calculate the cube of a number.
 - **Square Root**: Get the square root of a non-negative number.
