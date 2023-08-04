@@ -1,7 +1,5 @@
 # C-calculator
 
-![Calculator Logo](calculator_logo.png)
-
 This repository contains a simple calculator program implemented in the C programming language. The calculator provides a set of basic arithmetic and mathematical operations, making it a handy tool for performing calculations quickly and efficiently.
 
 ## Features
